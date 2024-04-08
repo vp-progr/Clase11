@@ -3,3 +3,8 @@ git init [nombre opcional]
 git status
 
 Staging
+
+git add . // Agrego todo
+git add mi_archivo.ext //agrego solo mi_archivo
+
+Repository
