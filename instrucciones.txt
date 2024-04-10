@@ -21,3 +21,5 @@ git checkout [número de commit]
 Ramas
 git branch [nombre_rama] // creo la rama
 git checkout [nombre_rama] // accedo a la rama
+
+git merge []
